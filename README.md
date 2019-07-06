@@ -1,2 +1,1 @@
-# Inshorts
-Natural Language Processing to predict sentiment in news
+# Natural Language Processing to predict sentiment in news
